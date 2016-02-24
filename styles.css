@@ -1,0 +1,29 @@
+#join {
+	font-family: sans-serif;
+	font-weight: bold;
+	width: 33%;
+
+	
+	
+}
+
+fieldset {
+	border-radius: 6%;
+	background-color: #F78C58;
+	border: none;
+}
+
+input, textarea, select, button{
+  border-radius: 6%;
+  
+}
+
+button {
+	background-color: #F78C58;
+	font-family: sans-serif;
+	font: black;
+	font-weight: bold;
+	border: none;
+	font-size: 16px;
+	width: 100%;
+}
